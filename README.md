@@ -16,5 +16,5 @@ Go explore, you'll find hundreds of gems.
 
 I used Monodraw (https://monodraw.helftone.com) to lay out the text file.
 
-And the wonderful https://ascii-generator.site - [Github](https://github.com/hermanTenuki/ASCII-Generator.site) - to create the ASCII art. 
+And to create the ASCII art I used the wonderful https://ascii-generator.site - [Github](https://github.com/hermanTenuki/ASCII-Generator.site) - 
 Thank you :-)
