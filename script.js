@@ -1,3 +1,6 @@
+// This is the code I used at crackunit.com/play/youtube_horror/ to display the contents of the text file
+// along with index.html
+
 document.addEventListener("DOMContentLoaded", function() {
     const asciiContainer = document.getElementById('asciiContainer');
 
