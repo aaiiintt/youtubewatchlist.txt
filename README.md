@@ -4,7 +4,7 @@ I wanted to highlight some interesting videos on YouTube. And I'd been playing a
 
 [YouTubeWatchlistVHSHORROR.txt](https://raw.githubusercontent.com/aaiiintt/youtubewatchlist.txt/main/YouTubeWatchlistVHSHORROR.txt) - a collection of VHS video nasties from my formative years.
 
-☝️☝️☝️☝️ TEXT FILE HERE ☝️☝️☝️☝️
+☝️☝️ TEXT FILE HERE ☝️☝️
 
 ---
 
