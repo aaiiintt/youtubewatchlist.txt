@@ -1,4 +1,4 @@
-![Image preview of watchlist ascii art](https://github.com/aaiiintt/youtubewatchlist.txt/blob/f453a033f83f5ae649377e7ddb65cc94f20d1c39/YouTubeWatchlistVHSHORROR.png)
+![Image preview of watchlist ascii art](YouTubeWatchlistVHSHORROR.gif)
 
 I wanted to highlight some interesting videos on YouTube. And I'd been playing around with ASCII art. So I combined the two. 
 
