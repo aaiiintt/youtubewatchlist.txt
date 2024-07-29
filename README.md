@@ -4,11 +4,13 @@ I accidentally made a kind of ASCII YouTube VHS Horror 'zine in a .txt file. It'
 
 [View .txt file in browswer](http://crackunit.com/play/youtube_horror/)
 
-☝️☝️ RECOMMENDED THIS FOR MOST PPL ☝️☝️
+☝️☝️ RECOMMENDED THIS FOR MOST PPL
 
-[Download .txt file here](https://raw.githubusercontent.com/aaiiintt/youtubewatchlist.txt/main/YouTubeWatchlistVHSHORROR.txt)
+(works on mobile and has live links)
 
-This file contains YouTube links to a bunch the 'video nasties' that were so important to my psychological development.
+[Download raw .txt file here](https://raw.githubusercontent.com/aaiiintt/youtubewatchlist.txt/main/YouTubeWatchlistVHSHORROR.txt)
+
+Both file contains YouTube links to a bunch the 'video nasties' that were so important to my psychological development.
 
 ---
 
