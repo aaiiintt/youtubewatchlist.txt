@@ -1,8 +1,8 @@
 ![Image preview of watchlist ascii art](YouTubeWatchlistVHSHORROR.gif)
 
-I wanted to highlight some interesting videos on YouTube. And I'd been playing around with ASCII art. So I combined the two. 
+I accidentally made a kind of ASCII YouTube VHS HorrorZine...
 
-[YouTubeWatchlistVHSHORROR.txt](https://raw.githubusercontent.com/aaiiintt/youtubewatchlist.txt/main/YouTubeWatchlistVHSHORROR.txt) - a collection of VHS video nasties from my formative years.
+[YouTubeWatchlistVHSHORROR.txt](https://raw.githubusercontent.com/aaiiintt/youtubewatchlist.txt/main/YouTubeWatchlistVHSHORROR.txt) - this text file contains YouTube links to a bunch of films I watched as a teenager on crappy VHS tapes.
 
 ☝️☝️ TEXT FILE HERE ☝️☝️
 
